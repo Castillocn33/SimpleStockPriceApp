@@ -1,5 +1,4 @@
 numpy==1.19.5
 pandas>=1.2.0
 matplotlib~=3.4.0
-/Users/christiancastillo/yfinance
 yfinance=0.2.28
