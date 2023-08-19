@@ -17,3 +17,5 @@ Fetching financial data from external APIs
 Cleaning and preparing data for analysis
 Visualizing time series data using Python libraries
 And building and deploying simple web apps with Streamlit
+
+https://simplestockpriceapp-dmudegyrqkr4m54zbcbvzr.streamlit.app/
